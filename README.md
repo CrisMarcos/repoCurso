@@ -17,7 +17,7 @@
 - $ git add .
 - $ git commit -m "Segundo commit"
 ## Ejercicio 7: Investiga qué hace el comando git clone y explica en qué situaciones se utiliza. Después, escribe un ejemplo realista de uso con una URL de repositorio.
-
+- $ git clone https://github.com/CrisMarcos/repoCurso.git
 ## Ejercicio 8: Busca una interfaz gráfica para trabajar con Git, como GitHub Desktop, SourceTree o la integración de Visual Studio Code. Indica cuál has elegido y responde qué ventajas puede tener usar una GUI frente a trabajar solo con comandos en terminal.
 
 ## Ejercicio 9: Crea una cuenta en GitHub, o utiliza una que ya tengas. Después, crea un repositorio remoto llamado tema1-git, súbelo a tu perfil y explica qué utilidad tienen plataformas como GitHub en un proyecto de desarrollo.
