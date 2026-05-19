@@ -14,7 +14,6 @@ function camara() {
 
 
 function gps() {
-    // funcion para el login
-    // Corregir de un bug login
+    // funcion para el gps
     console.log("gps");
 }
