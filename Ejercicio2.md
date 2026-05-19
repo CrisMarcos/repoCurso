@@ -11,6 +11,7 @@
 
 ## Ejercicio 4. Provocar un conflicto sencillo
 ### Crea una rama nueva llamada feature/title. Modifica en esa rama una misma línea del archivo README.md, por ejemplo el título principal, y haz un commit. Después, vuelve a la rama principal, modifica exactamente esa misma línea con un contenido diferente y haz otro commit. Intenta fusionar feature/title en la rama principal y observa qué mensaje muestra Git.
+- Cambios
 
 ## Ejercicio 5. Identificar archivos en conflicto
 ### xplica con tus palabras por qué se ha producido el conflicto.
