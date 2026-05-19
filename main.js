@@ -9,7 +9,7 @@ function login() {
 
 function camara() {
     // funcion para la camara
-    console.log("camara");
+    console.log("camara arreglado");
 }
 
 
