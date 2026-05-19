@@ -16,5 +16,5 @@ function camara() {
 function gps() {
     // funcion para el gps
     // gps fix
-    console.log("cambios de compañero");
+    console.log("gps arreglado");
 }
