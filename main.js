@@ -11,3 +11,10 @@ function camara() {
     // funcion para la camara
     console.log("camara");
 }
+
+
+function gps() {
+    // funcion para el login
+    // Corregir de un bug login
+    console.log("gps");
+}
