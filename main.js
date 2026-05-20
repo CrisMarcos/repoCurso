@@ -21,3 +21,10 @@ function gps() {
 
 
 // Cambios en el main.js
+
+function main() {
+    console.log("main function");
+    login();
+    camara();
+    gps();
+}
