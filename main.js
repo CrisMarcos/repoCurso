@@ -18,3 +18,8 @@ function gps() {
     // gps fix
     console.log("gps arreglado");
 }
+
+
+// Cambios en el main.js
+// Cambios en el main.js
+// Cambios en el main.js
