@@ -38,3 +38,8 @@ function settings() {
     // funcion para los ajustes
     console.log("settings");
 }
+
+function profile() {
+    // funcion para el perfil
+    console.log("profile");
+}
