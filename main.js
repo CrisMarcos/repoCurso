@@ -27,6 +27,7 @@ function main() {
     login();
     camara();
     gps();
+    logout();
 }
 
 function logout() {
