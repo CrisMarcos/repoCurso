@@ -555,8 +555,8 @@ esac
 
 branch=$(git branch --show-current)
 
-if [ "$branch" = "master" ]; then
-  echo "Error: no puedes hacer push directamente a master"
+if [ "$branch" = "main" ]; then
+  echo "Error: no puedes hacer push directamente a main"
   exit 1
 fi
 
