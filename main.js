@@ -28,3 +28,8 @@ function main() {
     camara();
     gps();
 }
+
+function logout() {
+    // funcion para el logout
+    console.log("logout");
+}
