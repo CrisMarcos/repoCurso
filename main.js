@@ -33,3 +33,8 @@ function logout() {
     // funcion para el logout
     console.log("logout");
 }
+
+function settings() {
+    // funcion para los ajustes
+    console.log("settings");
+}
