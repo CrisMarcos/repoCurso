@@ -5,7 +5,7 @@ Explica con tus palabras qué diferencia existe entre git pull y git fetch. Desp
 - Git fetch se los baja al espacio de trabajo (se queda dentro de la carpeta .git del proyecto, pero no lo aplica a local), para aplicarlo a local habria que hacer un git merge.
 
 ## Ejercicio 2. Actualizar un repositorio remoto
-Clona un repositorio de prueba o utiliza uno que ya tengas. Después, ejecuta el comando necesario para traer los cambios del repositorio remoto sin fusionarlos automáticamente. A continuación, consulta el estado del repositorio y el historial para comprobar qué información nueva ha llegado.
+Clona un repositorio de prueba o utiliza uno que ya tengas. Después, ejecuta el comando necesario para traer los cambios del repositorio remoto sin fusionarlos automáticamente. A continuación, consulta el estado del repositorio y el historial para comprobar qué información nueva ha llegado
 - git clone https://github.com/IconoTC/GIT-GITHUB-y-GITLAB-AF-75994---Grupo-97786.git
 - git fetch
 - git status
