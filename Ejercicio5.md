@@ -1,5 +1,4 @@
 # Ejercicios - Tema 5: GitLab, Restore, Revert, Pipelines y GitHub Actions
-A continuación, encontrarás 10 ejercicios prácticos sobre trabajo con GitLab, restauración de cambios, reversión de commits, pipelines y automatización con GitHub Actions. Intenta resolverlos antes de consultar la teoría.
 
 ## Ejercicio 1. Crear un repositorio en GitLab y clonarlo
 Crea un nuevo repositorio en GitLab con el nombre tema5-gitlab. Después, copia la URL del repositorio y clónalo en tu equipo con el comando correspondiente.
