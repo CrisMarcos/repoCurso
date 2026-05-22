@@ -1,0 +1,30 @@
+name: Workflow con varios jobs
+
+
+on: push
+
+
+jobs:
+  saludo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mostrar saludo
+        run: echo "Mi workflow se ha ejecutado"
+
+
+  mostrar_archivos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+
+      - name: Listar archivos
+        run: ls
+
+
+  info_sistema:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mostrar info del sistema
+        run: uname -a
