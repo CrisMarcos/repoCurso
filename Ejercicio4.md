@@ -1,4 +1,4 @@
-# Ejercicios - Tema 4: Tags, Releases, Workflows y Automatización en Git.
+# Ejercicios - Tema 4: Tags, Releases, Workflows y Automatización en Git
 
 ## Ejercicio 1. Tags
 Investiga qué es un tag en Git y explica con tus palabras para qué sirve. Después, crea un repositorio de prueba, realiza al menos un commit y añade un tag a ese punto del historial. Finalmente, ejecuta el comando necesario para mostrar todos los tags del repositorio.
