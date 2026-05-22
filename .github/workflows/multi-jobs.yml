@@ -28,3 +28,11 @@ jobs:
     steps:
       - name: Mostrar info del sistema
         run: uname -a
+
+  mostrar_secreto:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mostrar mensaje
+        run: echo "Secreto cargado correctamente" ${{ secrets.MY_TOKEN }}
+        env:
+          TOKEN: ${{ secrets.MY_TOKEN }}
