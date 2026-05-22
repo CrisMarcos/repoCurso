@@ -1,0 +1,16 @@
+stages:
+  - test
+  - deploy
+
+test_job:
+  stage: test
+  script:
+    - echo "Ejecutando mi Pipeline"
+    - echo "Todo ha salido bien"
+    - # Add your test commands here
+
+deploy_job:
+  stage: deploy
+  script:
+    - echo "Desplegando mi aplicación"
+    - # Add your deployment commands here
